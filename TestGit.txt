@@ -1,4 +1,8 @@
 Test Git command
 
 
+
 Conflict 2
+
+Test Conflict
+
